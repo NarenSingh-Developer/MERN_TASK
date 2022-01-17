@@ -1,0 +1,14 @@
+.link{
+  text-decoration: none;
+  color: black;
+}
+
+select {
+  width: 120px;
+    text-align: center;
+    border-color: #dfdfdf;
+    outline: none;
+    cursor: pointer;
+}
+
+
